@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F497B08624EE130700AF949B /* Machine_Learing.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F497B08524EE130700AF949B /* Machine_Learing.cpp */; };
+		F497B08624EE130700AF949B /* feed_forward.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F497B08524EE130700AF949B /* feed_forward.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -51,7 +51,7 @@
 		F49184C621AFC1830093C4A5 /* CL */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CL; sourceTree = BUILT_PRODUCTS_DIR; };
 		F49184C921AFC1830093C4A5 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		F49184D021AFC1B70093C4A5 /* CL2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CL2.cpp; sourceTree = "<group>"; };
-		F497B08524EE130700AF949B /* Machine_Learing.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Machine_Learing.cpp; sourceTree = "<group>"; };
+		F497B08524EE130700AF949B /* feed_forward.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = feed_forward.cpp; sourceTree = "<group>"; };
 		F4C1267B22756DB500705C96 /* project2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = project2.cpp; sourceTree = "<group>"; };
 		F4E4E08E229CEA2C00AFF28F /* project3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = project3.cpp; sourceTree = "<group>"; };
 		F4EE427721B91B120030169E /* str7.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = str7.c; sourceTree = "<group>"; };
@@ -166,7 +166,7 @@
 		F497B08424EE12D000AF949B /* Deep_Learining */ = {
 			isa = PBXGroup;
 			children = (
-				F497B08524EE130700AF949B /* Machine_Learing.cpp */,
+				F497B08524EE130700AF949B /* feed_forward.cpp */,
 			);
 			path = Deep_Learining;
 			sourceTree = "<group>";
@@ -246,7 +246,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F497B08624EE130700AF949B /* Machine_Learing.cpp in Sources */,
+				F497B08624EE130700AF949B /* feed_forward.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
