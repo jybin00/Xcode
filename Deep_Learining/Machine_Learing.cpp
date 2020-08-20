@@ -44,9 +44,9 @@ int main()
     my_neuron.w_ = 2.0;
     my_neuron.b_ = 1.0;
     
-    std::cout << "Input = 1.0" << my_neuron.feedForward(1.0) << std::endl;
-    std::cout << "Input = 2.0" << my_neuron.feedForward(2.0) << std::endl;
-    std::cout << "Input = 3.0" << my_neuron.feedForward(3.0) << std::endl;
+    std::cout << "Input = 1.0 " << my_neuron.feedForward(1.0) << std::endl;
+    std::cout << "Input = 2.0 " << my_neuron.feedForward(2.0) << std::endl;
+    std::cout << "Input = 3.0 " << my_neuron.feedForward(3.0) << std::endl;
     
     return 0;
 }
